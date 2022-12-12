@@ -1,0 +1,49 @@
+/* #myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    } */
+
+th{
+    color: aliceblue;
+    }
+.add_movie_label{
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#add_movie_h2{
+    font-family: monospace;
+}
+#moviely_h1{
+    text-decoration-line: none;
+    color:black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+#add_new_movie_p{
+    text-decoration: none;
+    color: black;
+    font-family: monospace
+  }
+input::placeholder {
+    font-weight: bold;
+    opacity: .5;
+    color: red;}
+#navbar{
+    position: fixed;
+    width: 85.35%;}
+
+#movie_in_page{
+    cursor: pointer;
+    color:black;
+    opacity: 0.5;
+    font-size: 20;
+    font-weight: bold; 
+}
+#id,#name, #rating{
+    color:black;
+    opacity: 0.5;
+    font-size: 20;
+    font-weight:bold;
+}
